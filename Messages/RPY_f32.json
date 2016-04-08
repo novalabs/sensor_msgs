@@ -1,0 +1,25 @@
+{
+  "name": "RPY_f32",
+  "description": "RPY Attitude (FLOAT32)",
+  "namespace": "sensor_msgs",
+  "fields": [
+    {
+      "name": "roll",
+      "description": "roll",
+      "type": "FLOAT32",
+      "size": 1
+    },
+    {
+      "name": "pitch",
+      "description": "pitch",
+      "type": "FLOAT32",
+      "size": 1
+    },
+    {
+      "name": "yaw",
+      "description": "yaw",
+      "type": "FLOAT32",
+      "size": 1
+    }
+  ]
+}

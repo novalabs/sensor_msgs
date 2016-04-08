@@ -1,0 +1,5 @@
+{
+  "name": "sensor_msgs",
+  "namespace": "@",
+  "description": "Sensor Messages"
+}

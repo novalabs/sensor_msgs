@@ -1,0 +1,13 @@
+{
+  "name": "Delta_f32",
+  "description": "A generic difference of something",
+  "namespace": "@",
+  "fields": [
+    {
+      "name": "value",
+      "description": "Delta",
+      "type": "FLOAT32",
+      "size": 1
+    }
+  ]
+}
