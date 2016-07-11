@@ -1,0 +1,25 @@
+{
+  "name": "Imu",
+  "description": "Imu outputs",
+  "namespace": "sensor_msgs",
+  "fields": [
+    {
+      "name": "orientation",
+      "description": "quaternion orientaton",
+      "type": "FLOAT32",
+      "size": 4
+    },
+    {
+      "name": "angular_velocity",
+      "description": "angular velocities",
+      "type": "FLOAT32",
+      "size": 3
+    },
+    {
+      "name": "linear_acceleration",
+      "description": "linear accelerations",
+      "type": "FLOAT32",
+      "size": 3
+    }
+  ]
+}

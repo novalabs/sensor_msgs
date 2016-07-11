@@ -1,0 +1,13 @@
+{
+  "name": "MagneticField",
+  "description": "Magnetometer measurements",
+  "namespace": "sensor_msgs",
+  "fields": [
+    {
+      "name": "magnetic_field",
+      "description": "magnetic field measurements",
+      "type": "FLOAT32",
+      "size": 3
+    }
+  ]
+}
