@@ -1,5 +1,5 @@
 {
   "name": "sensor_msgs",
-  "namespace": "@",
-  "description": "Sensor Messages"
+  "description": "Sensor Messages",
+  "provider": "core"
 }

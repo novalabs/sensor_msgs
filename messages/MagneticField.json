@@ -1,7 +1,7 @@
 {
   "name": "MagneticField",
   "description": "Magnetometer measurements",
-  "namespace": "sensor_msgs",
+  "namespace": "@",
   "fields": [
     {
       "name": "magnetic_field",

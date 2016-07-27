@@ -1,7 +1,7 @@
 {
   "name": "RPY_f32",
   "description": "RPY Attitude (FLOAT32)",
-  "namespace": "sensor_msgs",
+  "namespace": "@",
   "fields": [
     {
       "name": "roll",

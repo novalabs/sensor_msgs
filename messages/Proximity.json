@@ -1,7 +1,7 @@
 {
   "name": "Proximity",
   "description": "Proximity outputs",
-  "namespace": "sensor_msgs",
+  "namespace": "@",
   "fields": [
     {
       "name": "value",
