@@ -1,0 +1,13 @@
+{
+  "name": "Proximity",
+  "description": "Proximity outputs",
+  "namespace": "sensor_msgs",
+  "fields": [
+    {
+      "name": "value",
+      "description": "distance in mm",
+      "type": "UINT16",
+      "size": 8
+    }
+  ]
+}
